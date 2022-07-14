@@ -1,0 +1,89 @@
+.pao_de_forma{
+    background-color:#ffd700;
+    text-align: center;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    border-top-left-radius: 80px;
+    border-top-right-radius: 80px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin: 0px;
+    }
+    .alface{
+        background-color:green;
+        text-align: center;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        border-radius: 16px;
+        margin: 0;
+    }
+    .molho_de_pimenta{
+        background-color:red;
+        text-align: center;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        border-radius: 16px;
+        margin: 0;
+        } 
+        .batata_frita{
+            background-color: rgba(255, 255, 0, 0.849);
+            text-align: center;
+            padding-top: 8px;
+            padding-bottom: 8px;
+            border-radius: 16px;
+            margin: 0;
+        }
+            .mostarda{
+                background-color:yellow;
+                text-align: center;
+                padding-top: 8px;
+                padding-bottom: 8px;
+                border-radius: 16px;
+                margin: 0;
+        }
+        .presunto{
+            background-color:pink;
+            text-align: center;
+            padding-top: 8px;
+            padding-bottom: 8px;
+            border-radius: 16px;
+            margin: 0;
+        }
+        .queijo_cheddar{
+            background-color:whitesmoke;
+            text-align: center;
+            padding-top: 8px;
+            padding-bottom: 8px;
+            border-radius: 16px;
+            margin: 0;
+        }
+        .carne_de_hamburguer{
+            background-color:brown;
+            text-align: center;
+            padding-top: 8px;
+            padding-bottom: 8px;
+            border-radius: 16px;
+            margin: 0;
+        }
+        .catchup{
+            background-color:red;
+            text-align: center;
+            padding-top: 8px;
+            padding-bottom: 8px;
+            border-radius: 16px;
+            margin: 0;
+        }
+        .pão_de_forma{
+            background-color:#ffd700;
+            text-align: center;
+            padding-top: 24px;
+            padding-bottom: 24px;
+            border-bottom-left-radius: 80px;
+            border-bottom-right-radius: 80px;
+            border-top-left-radius: 20px;
+            border-top-right-radius: 20px;
+            margin:0px;
+        }
+        .title{
+            text-align: center;
+        }
